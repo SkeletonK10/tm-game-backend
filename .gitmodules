@@ -1,0 +1,3 @@
+[submodule "tm-game-shared"]
+	path = tm-game-shared
+	url = https://github.com/skeletonk10/tm-game-shared.git
